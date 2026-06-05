@@ -1,0 +1,27 @@
+# Build artifacts
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.iobj
+*.ipdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.db
+*.opendb
+
+# OS
+Thumbs.db
+Desktop.ini

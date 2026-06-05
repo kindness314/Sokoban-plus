@@ -1,0 +1,2 @@
+Release     sfml-graphics.lib;sfml-system.lib;sfml-window.lib;
+Debug       sfml-graphics-d.lib;sfml-system-d.lib;sfml-window-d.lib;
